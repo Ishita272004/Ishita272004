@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ishita Chatterjee 👋
 
-<!--
-**Ishita272004/Ishita272004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering & AI/ML Enthusiast | Final-Year B.Tech CSE
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Languages
+- **Languages:** Python, Java, JavaScript, C, SQL
+- **Frameworks & Libraries:** React.js, Flask, Scikit-learn, Pandas, Hugging Face Transformers
+- **Databases & Tools:** MySQL, MongoDB, PostgreSQL, Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Cinebox:** Full-Stack Movie Review Platform (Spring Boot, React.js, MongoDB)
+- **AI-Powered Chatbot:** Real-Time Inquiry & Automated Ticketing System (Transformers, Flask, PostgreSQL)
+- **EnHealth:** Health Risk Assessment System (Flask, ML, Scikit-learn)
+
+###  📫 Connect with Me
+- **LinkedIn:** [Ishita Chatterjee](https://linkedin.com)
